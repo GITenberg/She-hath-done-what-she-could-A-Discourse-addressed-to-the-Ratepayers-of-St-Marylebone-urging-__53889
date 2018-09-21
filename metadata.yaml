@@ -1,11 +1,16 @@
 _repo: She-hath-done-what-she-could-A-Discourse-addressed-to-the-Ratepayers-of-St-Marylebone-urging-__53889
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Feilde, Matthew
     gutenberg_agent_id: '47600'
     url: http://www.gutenberg.org/2009/agents/47600
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53889#She-hath-done-what-she-could-A-Discourse-addressed-to-the-Ratepayers-of-St-Marylebone-urging-_
 gutenberg_issued: '2017-01-04'
 gutenberg_type: Text
 identifiers:
